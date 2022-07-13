@@ -1,0 +1,16 @@
+C:\Users\amanda.ribeiro\Downloads\jogo-da-velha-csharp-master\jogo-da-velha-csharp-master\JogoDaVelha\JogoDaVelha\bin\Debug\net5.0\JogoDaVelha.exe
+C:\Users\amanda.ribeiro\Downloads\jogo-da-velha-csharp-master\jogo-da-velha-csharp-master\JogoDaVelha\JogoDaVelha\bin\Debug\net5.0\JogoDaVelha.deps.json
+C:\Users\amanda.ribeiro\Downloads\jogo-da-velha-csharp-master\jogo-da-velha-csharp-master\JogoDaVelha\JogoDaVelha\bin\Debug\net5.0\JogoDaVelha.runtimeconfig.json
+C:\Users\amanda.ribeiro\Downloads\jogo-da-velha-csharp-master\jogo-da-velha-csharp-master\JogoDaVelha\JogoDaVelha\bin\Debug\net5.0\JogoDaVelha.runtimeconfig.dev.json
+C:\Users\amanda.ribeiro\Downloads\jogo-da-velha-csharp-master\jogo-da-velha-csharp-master\JogoDaVelha\JogoDaVelha\bin\Debug\net5.0\JogoDaVelha.dll
+C:\Users\amanda.ribeiro\Downloads\jogo-da-velha-csharp-master\jogo-da-velha-csharp-master\JogoDaVelha\JogoDaVelha\bin\Debug\net5.0\ref\JogoDaVelha.dll
+C:\Users\amanda.ribeiro\Downloads\jogo-da-velha-csharp-master\jogo-da-velha-csharp-master\JogoDaVelha\JogoDaVelha\bin\Debug\net5.0\JogoDaVelha.pdb
+C:\Users\amanda.ribeiro\Downloads\jogo-da-velha-csharp-master\jogo-da-velha-csharp-master\JogoDaVelha\JogoDaVelha\obj\Debug\net5.0\JogoDaVelha.csproj.AssemblyReference.cache
+C:\Users\amanda.ribeiro\Downloads\jogo-da-velha-csharp-master\jogo-da-velha-csharp-master\JogoDaVelha\JogoDaVelha\obj\Debug\net5.0\JogoDaVelha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amanda.ribeiro\Downloads\jogo-da-velha-csharp-master\jogo-da-velha-csharp-master\JogoDaVelha\JogoDaVelha\obj\Debug\net5.0\JogoDaVelha.AssemblyInfoInputs.cache
+C:\Users\amanda.ribeiro\Downloads\jogo-da-velha-csharp-master\jogo-da-velha-csharp-master\JogoDaVelha\JogoDaVelha\obj\Debug\net5.0\JogoDaVelha.AssemblyInfo.cs
+C:\Users\amanda.ribeiro\Downloads\jogo-da-velha-csharp-master\jogo-da-velha-csharp-master\JogoDaVelha\JogoDaVelha\obj\Debug\net5.0\JogoDaVelha.csproj.CoreCompileInputs.cache
+C:\Users\amanda.ribeiro\Downloads\jogo-da-velha-csharp-master\jogo-da-velha-csharp-master\JogoDaVelha\JogoDaVelha\obj\Debug\net5.0\JogoDaVelha.dll
+C:\Users\amanda.ribeiro\Downloads\jogo-da-velha-csharp-master\jogo-da-velha-csharp-master\JogoDaVelha\JogoDaVelha\obj\Debug\net5.0\ref\JogoDaVelha.dll
+C:\Users\amanda.ribeiro\Downloads\jogo-da-velha-csharp-master\jogo-da-velha-csharp-master\JogoDaVelha\JogoDaVelha\obj\Debug\net5.0\JogoDaVelha.pdb
+C:\Users\amanda.ribeiro\Downloads\jogo-da-velha-csharp-master\jogo-da-velha-csharp-master\JogoDaVelha\JogoDaVelha\obj\Debug\net5.0\JogoDaVelha.genruntimeconfig.cache

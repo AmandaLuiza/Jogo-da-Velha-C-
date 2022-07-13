@@ -1,0 +1,67 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net5.0": []
+  },
+  "packageFolders": {
+    "C:\\Users\\amanda.ribeiro\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\amanda.ribeiro\\Downloads\\jogo-da-velha-csharp-master\\jogo-da-velha-csharp-master\\JogoDaVelha\\JogoDaVelha\\JogoDaVelha.csproj",
+      "projectName": "JogoDaVelha",
+      "projectPath": "C:\\Users\\amanda.ribeiro\\Downloads\\jogo-da-velha-csharp-master\\jogo-da-velha-csharp-master\\JogoDaVelha\\JogoDaVelha\\JogoDaVelha.csproj",
+      "packagesPath": "C:\\Users\\amanda.ribeiro\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\amanda.ribeiro\\Downloads\\jogo-da-velha-csharp-master\\jogo-da-velha-csharp-master\\JogoDaVelha\\JogoDaVelha\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\amanda.ribeiro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.410\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
